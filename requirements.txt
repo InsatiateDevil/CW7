@@ -31,6 +31,7 @@ exceptiongroup==1.2.2
 executing==2.0.1
 flake8==7.1.1
 flower==2.0.1
+gunicorn==23.0.0
 humanize==4.10.0
 idna==3.8
 inflection==0.5.1
@@ -65,7 +66,7 @@ pytz==2024.1
 PyYAML==6.0.2
 redis==5.0.8
 referencing==0.35.1
-requests==2.28.1
+requests==2.32.3
 rpds-py==0.20.0
 simplejson==3.19.3
 six==1.16.0
@@ -77,6 +78,6 @@ traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2024.1
 uritemplate==4.1.1
-urllib3==2.2.2
+urllib3==2.2.3
 vine==5.1.0
 wcwidth==0.2.13
